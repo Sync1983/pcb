@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Input.SchDoc
+Record=SheetSymbol|SourceDocument=Input.SchDoc|Designator=ChA|SchDesignator=ChA|FileName=Chanal.SchDoc|SymbolType=Normal|RawFileName=Chanal.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Input.SchDoc|Designator=ChB|SchDesignator=ChB|FileName=Chanal.SchDoc|SymbolType=Normal|RawFileName=Chanal.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Input.SchDoc|Designator=ChC|SchDesignator=ChC|FileName=Chanal.SchDoc|SymbolType=Normal|RawFileName=Chanal.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Input.SchDoc|Designator=ChD|SchDesignator=ChD|FileName=Chanal.SchDoc|SymbolType=Normal|RawFileName=Chanal.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
